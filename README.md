@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Agarwal</h1>
+<h1 align="center">Hi 😎, I'm Rahul Agarwal</h1>
 <h3 align="center">A Versatile Software Engineer from India.</h3>
 
 <img align="right" alt="cloud" width="350" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
